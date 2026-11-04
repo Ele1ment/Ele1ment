@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ele1ment — bots, backend and automation</title>
+  <desc id="desc">A dark banner with mint green lettering and a geometric terminal motif.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d141b"/><stop offset="1" stop-color="#15282b"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8ce8c0" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <path d="M55 55h34" stroke="#8ce8c0" stroke-width="4"/>
+  <text x="55" y="92" fill="#8ce8c0" font-family="ui-monospace,monospace" font-size="12" letter-spacing="3">BUILD / CONNECT / AUTOMATE</text>
+  <text x="52" y="178" fill="#f0f5f3" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="76" letter-spacing="-3">Ele1ment<tspan fill="#8ce8c0">.</tspan></text>
+  <text x="57" y="226" fill="#a8bdb7" font-family="Arial,Helvetica,sans-serif" font-size="21">Bots, backend services &amp; everyday automation.</text>
+  <g transform="translate(880 60)" fill="none" stroke="#8ce8c0">
+    <rect width="250" height="180" rx="12" stroke-opacity=".25"/>
+    <path d="M0 36h250" stroke-opacity=".2"/>
+    <circle cx="20" cy="19" r="3" fill="#8ce8c0" stroke="none"/>
+    <circle cx="34" cy="19" r="3" fill="#8ce8c0" opacity=".5" stroke="none"/>
+    <circle cx="48" cy="19" r="3" fill="#8ce8c0" opacity=".25" stroke="none"/>
+    <path d="m48 75 30 25-30 25M100 126h55" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M183 76h36m-36 16h22m-22 16h30" stroke-opacity=".25" stroke-width="3"/>
+  </g>
+</svg>
