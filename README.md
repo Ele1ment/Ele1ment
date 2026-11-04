@@ -14,6 +14,10 @@ I work on Telegram bots, backend services and automation — connecting APIs, pa
 
 `Python` · `Go` · `Flask` · `PostgreSQL` · `SQLite` · `Docker` · `Linux` · `Nginx`
 
+### Codewars
+
+[![Codewars rank and honor for Ele1ment](https://www.codewars.com/users/Ele1ment/badges/large)](https://www.codewars.com/users/Ele1ment)
+
 ### Earlier web projects
 
 [Web storefront](https://github.com/Ele1ment/Sait_Shop) · [Music website](https://github.com/Ele1ment/The-Music-Website)
